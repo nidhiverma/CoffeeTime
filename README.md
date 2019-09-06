@@ -1,2 +1,2 @@
 # CoffeeTime
-This is a basic app for Coffee Order Receipt Generator
+This is an android app for Coffee Order Receipt Generator
